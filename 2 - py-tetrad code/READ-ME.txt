@@ -1,0 +1,1 @@
+Following the work pipeline, this folder contains the code for the Py-Tetrad library. I don't think I can make the code available here, but the download link is: https://www.cmu.edu/dietrich/philosophy/tetrad/use-tetrad/tetrad-python.html
